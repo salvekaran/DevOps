@@ -1,3 +1,6 @@
+git branch -- current branch name 
+git checkout 
+git branch -d branch_name
 git add
 git restore
 git status
