@@ -8,3 +8,4 @@ git log
 git log --oneline
 git log --oneline --preety
 git remote -v
+git pull origin main
